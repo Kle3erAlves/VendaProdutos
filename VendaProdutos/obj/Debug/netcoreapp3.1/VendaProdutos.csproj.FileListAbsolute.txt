@@ -1,0 +1,13 @@
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.csprojAssemblyReference.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\bin\Debug\netcoreapp3.1\VendaProdutos.exe
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\bin\Debug\netcoreapp3.1\VendaProdutos.deps.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\bin\Debug\netcoreapp3.1\VendaProdutos.runtimeconfig.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\bin\Debug\netcoreapp3.1\VendaProdutos.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\bin\Debug\netcoreapp3.1\VendaProdutos.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\bin\Debug\netcoreapp3.1\VendaProdutos.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.dll
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.pdb
+C:\Users\klebe\OneDrive\DOCUMENTOS\CURSO C SHARP - UDEMY\VendaProdutos\VendaProdutos\obj\Debug\netcoreapp3.1\VendaProdutos.genruntimeconfig.cache
